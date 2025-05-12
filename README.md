@@ -27,7 +27,7 @@ A beginner-friendly machine learning project that applies **K-Means Clustering**
 ## Conceptual Study
 
 Want to dive deeper into the why and how?
-👉 [Explore the Conceptual Study](https://github.com/Pre123140/Customer_Segmentation/blob/main/Customer_Segmentation_Study.pdf) (coming soon)
+👉 [Explore the Conceptual Study](https://github.com/Pre123140/ai-customer-segmentation/blob/main/AI_POWERED_CUSTOMER_SEGMENTATION.pdf)
 
 ---
 
