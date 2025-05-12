@@ -61,7 +61,7 @@ Customer_Segmentation/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Pre123140/Customer_Segmentation
+git clone https://github.com/Pre123140/ai-customer-segmentation
 cd Customer_Segmentation
 ```
 
